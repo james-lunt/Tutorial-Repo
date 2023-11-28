@@ -1,6 +1,6 @@
 import sys
 
-def get_arguments():
+def get_arg_input():
     for param in sys.argv:
         print(param)
 

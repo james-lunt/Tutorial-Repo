@@ -1,3 +1,3 @@
-from my_file import get_arguments
+from my_file import get_arg_input
 
-get_arguments()
+get_arg_input()
