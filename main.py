@@ -1,3 +1,4 @@
-from my_file import get_arguments
+from my_file import get_args, print_hello
 
-get_arguments()
+print_hello()
+get_args()
