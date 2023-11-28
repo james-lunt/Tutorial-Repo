@@ -1,3 +1,5 @@
-from my_file import get_arg_input
+from my_file import get_args, print_hello
 
-get_arg_input()
+print_hello()
+get_args()
+

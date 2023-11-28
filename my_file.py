@@ -1,7 +1,9 @@
 import sys
 
-def get_arg_input():
+def get_args():
     for param in sys.argv:
         print(param)
 
-print("Hello World")
+
+def print_hello():
+    print("Hello World")
